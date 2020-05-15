@@ -1,2 +1,2 @@
 # Python
-Projetos em Python
+Projetos simples para aprendizado em Python
